@@ -1,19 +1,23 @@
 [
     {
-        "Author": "attick, daemitus, alymphocyte, Aki, Iaotle, Codemned, rushtothesun, damolitionn",
-        "Name": "XIVSlothCombo",
-        "Description": "XIVCombo But For Lazy Gamers, Should Have Everything That Original XIVCombo Has And More +++",
+        "Author": "Team Sloth",
+        "Name": "XIVSlothCombo (DNC)-twtest",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/tylenwells/XIVSlothCombo",
+        "AssemblyVersion": "3.2.0.3",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 10,
+        "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/tylenwells/testplogons/raw/main/plugins/XIVSlothCombo/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/tylenwells/testplogons/raw/main/plugins/XIVSlothCombo/Testing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tylenwells/testplogons/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "0"
+        "LastUpdated": "1722216514"
     }
 ]
